@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Invotra-Labs-Apps-Manuals-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.7894737,3 L5.68421053,3 C4.75789474,3 4,3.73636364 4,4.63636364 L4,16.0909091 L5.68421053,16.0909091 L5.68421053,4.63636364 L15.7894737,4.63636364 L15.7894737,3 Z M14.9473684,6.27272727 L9.05263158,6.27272727 C8.12631579,6.27272727 7.37684211,7.00909091 7.37684211,7.90909091 L7.36842105,19.3636364 C7.36842105,20.2636364 8.11789474,21 9.04421053,21 L18.3157895,21 C19.2421053,21 20,20.2636364 20,19.3636364 L20,11.1818182 L14.9473684,6.27272727 Z M9.05263158,19.3636364 L9.05263158,7.90909091 L14.1052632,7.90909091 L14.1052632,12 L18.3157895,12 L18.3157895,19.3636364 L9.05263158,19.3636364 Z" id="path-1"></path>
+    </defs>
+    <g id="Invotra-Labs-Apps-Manuals-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon/content/file_copy_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
